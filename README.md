@@ -18,6 +18,11 @@ Sou Analista de Dados com graduação em Matemática e mestrado em Estatística.
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CamilaCL&theme=transparent&bg_color=white&border_color=black&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=000)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CamilaCL&layout=compact&bg_color=white&border_color=black&title_color=E94D5F&text_color=000)
+
+
 ## 🌐 *Contato*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-cl/)
