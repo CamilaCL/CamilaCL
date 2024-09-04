@@ -7,15 +7,24 @@ Sou Analista de Dados com graduação em Matemática e mestrado em Estatística.
 ## 📈 *Habilidades* / 💻 *Tecnologias* / 🔨 *Ferramentas*
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Databricks](https://img.shields.io/badge/Databricks-white?style=for-the-badge&logo=databricks)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23f37726.svg?style=for-the-badge&logo=jupyter&logoColor=4e4e4e)
+![SQL](https://img.shields.io/badge/SQL-0?style=for-the-badge&logo=SQL&logoColor=white&color=2687cf)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/pandas-%23130754.svg?style=for-the-badge&logo=pandas&logoColor=e70488)
+![NumPy](https://img.shields.io/badge/numpy-%234c76cf.svg?style=for-the-badge&logo=numpy&logoColor=4dabcf)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%2316567b.svg?style=for-the-badge&logo=Matplotlib&logoColor=16567b)
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Databricks](https://img.shields.io/badge/Databricks-white?style=for-the-badge&logo=databricks)
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/looker-white?style=for-the-badge&logo=looker&logoColor=4286f4)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
+![VScode](https://img.shields.io/badge/vscode-22a6f1?style=for-the-badge&logo=vscode&logoColor=white)
+
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CamilaCL&theme=transparent&bg_color=white&border_color=black&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=000)
