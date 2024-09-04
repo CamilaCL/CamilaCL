@@ -7,7 +7,7 @@ Sou Analista de Dados com graduação em Matemática e mestrado em Estatística.
 ## 📈 *Habilidades* / 💻 *Tecnologias* / 🔨 *Ferramentas*
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23f37726.svg?style=for-the-badge&logo=jupyter&logoColor=4e4e4e)
+![PySpark](https://img.shields.io/badge/pyspark-0?style=for-the-badge&logo=apachespark&logoColor=dd7119&labelColor=black&color=dd7119)
 ![SQL](https://img.shields.io/badge/SQL-0?style=for-the-badge&logo=SQL&logoColor=white&color=2687cf)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -17,6 +17,7 @@ Sou Analista de Dados com graduação em Matemática e mestrado em Estatística.
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Databricks](https://img.shields.io/badge/Databricks-white?style=for-the-badge&logo=databricks)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23f37726.svg?style=for-the-badge&logo=jupyter&logoColor=4e4e4e)
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/looker-white?style=for-the-badge&logo=looker&logoColor=4286f4)
